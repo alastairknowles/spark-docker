@@ -14,7 +14,7 @@ ENV JDK_JAVA_OPTIONS="\
 --add-opens=java.base/sun.util.calendar=ALL-UNNAMED \
 --add-opens=java.base/java.time=ALL-UNNAMED \
 --add-opens=java.base/java.lang=ALL-UNNAMED \
---add-opens=java.sql/java.lang.sql=ALL-UNNAMED \
+--add-opens=java.sql/java.sql=ALL-UNNAMED \
 --add-opens=java.base/java.lang.invoke=ALL-UNNAMED \
 --add-opens=java.base/java.lang.reflect=ALL-UNNAMED \
 --add-opens=java.base/java.io=ALL-UNNAMED \
