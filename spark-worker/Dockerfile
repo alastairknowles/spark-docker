@@ -1,4 +1,4 @@
-FROM realalknowles/spark:v2
+FROM realalknowles/spark:v3
 
 EXPOSE 8081
 

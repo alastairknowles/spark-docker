@@ -1,4 +1,4 @@
-FROM realalknowles/spark:v2
+FROM realalknowles/spark:v3
 
 COPY spark-defaults.conf /opt/spark/conf/spark-defaults.conf
 
